@@ -34,3 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Buckland_AIExecutables
+/Buckland_PGAIBE_Source_VC6-VS2010
